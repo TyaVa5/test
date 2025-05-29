@@ -4,12 +4,8 @@ asda
 =======
 hello
 <<<<<<< HEAD
-12312312
-=======
-<<<<<<< HEAD
 asdadsda
 >>>>>>> feature
 =======
 asdadsdasdadsa1231312312321312321
 >>>>>>> feature
->>>>>>> 29cb63292365f65b6aa5e91e0a196c3715feb6a6
