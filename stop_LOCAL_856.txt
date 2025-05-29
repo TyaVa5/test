@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-hello lox
-asda
-=======
-hello
-asdadsda
->>>>>>> feature
